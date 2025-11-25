@@ -4,7 +4,7 @@ Game Design final for class
 # Title: Drescape [Might change]
 
 # Description:
-Basically the idea I came up with was from a music video from this k-pop group I'm obsessed with. Specifically, their song "Magnetic". What I'm going to adapt into a game is basically the second half of the video, where the idols are running through different liminal, dream-like spaces, seemingly trying to get back to reality, at lease that's what I made it out to be. 
+Basically the idea I came up with was from a music video from this k-pop group I'm obsessed with. Specifically, their song "Magnetic". What I'm going to adapt into a game is basically the second half of the video, where the idols are running through different liminal, dream-like spaces, seemingly trying to get back to reality, at least that's what I made it out to be. 
 - MV Reference: [Magnetic - ILLIT](https://youtu.be/Vk5-c_v4gMU?t=83)
 
 # Ideas and Design notes:
